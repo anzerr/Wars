@@ -1,14 +1,18 @@
 # Wars
-3D game made with babylon.js
+3D game made with babylon.js. A rush project over the course of 10 days.
 
-the controls are :
-> movement = mouse1, mouse2, mouse wheel
-> pause = space
-> esc = menu
+Controls :
+---
++ movement = mouse1, mouse2, mouse wheel
++ pause = space
++ esc = menu
 
-gameplay: add units to spawn queue to try and destroy the enemy's nexus.
+Gameplay :
+---
++ add units to spawn queue to try and destroy the enemy's nexus.
 
-bug:
-> the first time you start the game you need to refresh the page. "the indexdb is not created well the first time"
-> big resolutions break the game ex: 4K
+Bug:
+---
++ the first time you start the game you need to refresh the page. "the indexdb is not created well the first time"
++ big resolutions break the game ex: 4K
   
